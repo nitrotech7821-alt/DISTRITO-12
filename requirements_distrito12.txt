@@ -1,6 +1,0 @@
-streamlit
-pandas
-psycopg2-binary
-pydeck
-openpyxl
-streamlit-option-menu
